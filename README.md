@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jo4obmartins
-- 👀 I’m interested in improve my knowlegde in Computing Science and Artificial Intelligence
+- 👀 I’m interested in improve my knowledge in Computing Science and Artificial Intelligence
 - 🌱 I’m currently learning Computing Science and Artificial Intelligence
 - 💞️ I’m looking to collaborate on any project related to Computing Science and Artificial Intelligence
 - 📫 How to reach me is only send an email for jo4obmartins@gmail.com
